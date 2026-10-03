@@ -36,9 +36,3 @@ or:
 from mofs_openkg import record_to_triples, ranking_metrics, wl_labels
 ```
 
-## Reproducibility note
-
-The released package does not include the CompGCN training implementation,
-because the supplied project directory currently contains preprocessing,
-mapping and structure scripts but no standalone CompGCN trainer. Add that
-trainer under `src/mofs_openkg/models/` once its source location is confirmed.
