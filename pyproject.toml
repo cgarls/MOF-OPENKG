@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mofs-openkg"
+version = "0.1.0"
+description = "Small, reproducible utilities for the MOFs-OpenKG study."
+readme = "README.md"
+requires-python = ">=3.9"
+license = { file = "LICENSE" }
+authors = [{ name = "MOFs-OpenKG authors" }]
+dependencies = []
+
+[project.scripts]
+mofs-openkg = "mofs_openkg.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

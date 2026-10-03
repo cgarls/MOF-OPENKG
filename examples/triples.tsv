@@ -1,0 +1,7 @@
+head	relation	tail
+MOF:dadc592ff9ad	hasMetal	hasMetal:6657ce8a918b
+MOF:dadc592ff9ad	hasLinker	hasLinker:36fff5796aac
+MOF:dadc592ff9ad	hasSolvent	hasSolvent:96c01f08f3e0
+MOF:dadc592ff9ad	hasMethod	hasMethod:6defe64b00d8
+MOF:dadc592ff9ad	hasOperation	hasOperation:853911dc66c6
+MOF:dadc592ff9ad	hasOperation	hasOperation:85d8d76ba15b

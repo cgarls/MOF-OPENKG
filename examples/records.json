@@ -1,0 +1,10 @@
+[
+  {
+    "identifier": "MOF-example-1",
+    "M_precursor": ["CuCl2·2H2O"],
+    "O_precursor": ["benzene-1,4-dicarboxylic acid"],
+    "S_precursor": ["DMF"],
+    "method": "solvothermal",
+    "operation": ["heat", "cool"]
+  }
+]
